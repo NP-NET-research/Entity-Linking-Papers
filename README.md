@@ -158,7 +158,7 @@ This is a repo listing some recommended papers on Neural Entity Linking Paper.
 
 3. **"Scalable Zero-shot Entity Linking with Dense Entity Retrieval"** *Ledell Wu, Fabio Petroni, Martin Josifoski* (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.519/) [code]
 
-### 2.4 Cross-lingual Architecture
+### Cross-lingual Architecture
 
 #### representation based
 
