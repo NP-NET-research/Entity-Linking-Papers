@@ -12,7 +12,7 @@ This is a repo listing some recommended papers on Neural Entity Linking Paper.
 
 #### dictionary lookup
 
-1. **"Personalized page rank for named entity disambiguation"** *Maria Pershina, Yifan He, Ralph Grishman* (NAACL 2015)[[paper]](https://aclanthology.org/N15-1026.pdf)
+1. **"Personalized page rank for named entity disambiguation"** *Maria Pershina, Yifan He, Ralph Grishman* (NAACL 2015)[[paper]](https://aclanthology.org/N15-1026.pdf) [[code]](https://github.com/masha-p/PPRforNED)
 
 2. **"YAGO A core of semantic knowledge unifying wordnet and wikipedia"** *Fabian M. Suchanek, Gjergji Kasneci, Gerhard Weikum* (www 2007) [[paper]](https://www2007.org/papers/paper391.pdf) [code]
 
@@ -20,23 +20,23 @@ This is a repo listing some recommended papers on Neural Entity Linking Paper.
 
 1. **"A Cross-Lingual Dictionary for English Wikipedia Concepts"** *Valentin I. Spitkovsky, Angel X. Chang* (LREC 2012) [[paper]](https://aclanthology.org/L12-1109/) [code]
 
-2. **"Deep joint entity disambiguation with local neural attention"** *Octavian-Eugen Ganea, Thomas Hofmann* (EMNLP 2017) [[paper]](https://aclanthology.org/D17-1277/) [code]
+2. **"Deep joint entity disambiguation with local neural attention"** *Octavian-Eugen Ganea, Thomas Hofmann* (EMNLP 2017) [[paper]](https://aclanthology.org/D17-1277/) [[code]](https://github.com/dalab/deep-ed)
 
 ### Context-Mention Encoding
 
 #### recurrent architecture
 
-1. **"Entity linking via joint encoding of types, descriptions, and context"** *Nitish Gupta, Sameer Singh, Dan Roth* (EMNLP 2017) [[paper]](https://aclanthology.org/D17-1284/) [code]
+1. **"Entity linking via joint encoding of types, descriptions, and context"** *Nitish Gupta, Sameer Singh, Dan Roth* (EMNLP 2017) [[paper]](https://aclanthology.org/D17-1284/)  [[code]](https://github.com/lajanugen/zeshel)
 
-2. **"End-to-end neural entity linking"** *Nikolaos Kolitsas, Octavian-Eugen Ganea, Thomas Hofmann* (CoNLL 2018) [[paper]](https://aclanthology.org/K18-1050/) [code]
+2. **"End-to-end neural entity linking"** *Nikolaos Kolitsas, Octavian-Eugen Ganea, Thomas Hofmann* (CoNLL 2018) [[paper]](https://aclanthology.org/K18-1050/) [[code]](https://github.com/dalab/end2end_neural_el)
 
 3. **"Neural cross-lingual entity linking"** *Avirup Sil, Gourab Kundu, Radu Florian, Wael Hamza* (AAAI 2018) [[paper]](https://arxiv.org/abs/1712.01813) [code]
 
 #### self-attention
 
-1. **"Zero-shot entity linking by reading entity descriptions"** *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee* (ACL 2019) [[paper]](https://aclanthology.org/P19-1335/) [code]
+1. **"Zero-shot entity linking by reading entity descriptions"** *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee* (ACL 2019) [[paper]](https://aclanthology.org/P19-1335/) [[code]](https://github.com/lajanugen/zeshel)
 
-2. **"Scalable Zero-shot Entity Linking with Dense Entity Retrieval"** *Ledell Wu, Fabio Petroni, Martin Josifoski* (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.519/) [code]
+2. **"Scalable Zero-shot Entity Linking with Dense Entity Retrieval"** *Ledell Wu, Fabio Petroni, Martin Josifoski* (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.519/) [[code]](https://github.com/facebookresearch/BLINK)
 
 3. **"Global Entity Disambiguation with Pretrained Contextualized Embeddings of Words and Entities"** *Ikuya Yamada, Koki Washio, Hiroyuki Shindo, Yuji Matsumoto* (2019) [[paper]](https://arxiv.org/abs/1909.00426) [code]
 
@@ -48,17 +48,17 @@ This is a repo listing some recommended papers on Neural Entity Linking Paper.
 
 2. **"Robust and Collective Entity Disambiguation through Semantic Embeddings Stefan"** *Stefan Zwicklbauer, Christin Seifert, Michael Granitzer* (SIGIR 2016) [[paper]](https://www.semanticscholar.org/paper/Robust-and-Collective-Entity-Disambiguation-through-Zwicklbauer-Seifert/ec1513289f00a49c4135909d517857fd6fba7fc9) [code]
 
-3. **"Jointly Embedding Entities and Text with Distant Supervision"** *Denis Newman-Griffis, Albert M Lai, Eric Fosler-Lussier* (ACL 2018) [[paper]](https://aclanthology.org/W18-3026) [code]
+3. **"Jointly Embedding Entities and Text with Distant Supervision"** *Denis Newman-Griffis, Albert M Lai, Eric Fosler-Lussier* (ACL 2018) [[paper]](https://aclanthology.org/W18-3026) [[code]](https://github.com/OSU-slatelab/JET)
 
 4. **"Improving neural entity disambiguation with graph embeddings"** *Özge Sevgili, Alexander Panchenko, Chris Biemann* (ACL 2019) [[paper]](https://aclanthology.org/P19-2044/) [code]
 
 #### joint encoding and ranking
 
-1. **"Learning dense representations for entity retrieval"** *Daniel Gillick, Sayali Kulkarni, Larry Lansing,* (CoNLL 2019) [[paper]](./papers/Gillick et al. - 2019 - Learning dense representations for entity retrieval.pdf) [code]
+1. **"Learning dense representations for entity retrieval"** *Daniel Gillick, Sayali Kulkarni, Larry Lansing,* (CoNLL 2019) [[paper]](./papers/Gillick et al. - 2019 - Learning dense representations for entity retrieval.pdf) [[code]](https://github.com/google-research/google-research/tree/master/dense_representations_for_entity_retrieval)
 
-2. **"Entity linking via joint encoding of types, descriptions, and context"** *Nitish Gupta, Sameer Singh, Dan Roth* (EMNLP 2017) [[paper]](https://aclanthology.org/D17-1284/) [code]
+2. **"Entity linking via joint encoding of types, descriptions, and context"** *Nitish Gupta, Sameer Singh, Dan Roth* (EMNLP 2017) [[paper]](https://aclanthology.org/D17-1284/)  [[code]](https://github.com/lajanugen/zeshel)
 
-3. **"Zero-shot entity linking by reading entity descriptions"** *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee* (ACL 2019) [[paper]](https://aclanthology.org/P19-1335/) [code]
+3. **"Zero-shot entity linking by reading entity descriptions"** *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee* (ACL 2019) [[paper]](https://aclanthology.org/P19-1335/) [[code]](https://github.com/lajanugen/zeshel)
 
 ### Unlinkable Mention Prediction
 
@@ -72,11 +72,11 @@ This is a repo listing some recommended papers on Neural Entity Linking Paper.
 
 1. **"Plato A Selective Context Model for Entity Resolution"** *Nevena Lazic, Amarnag Subramanya, Michael Ringgaard, Fernando Pereira* (TACL 2015)[[paper]](https://aclanthology.org/Q15-1036/) [code]
 
-2. **"Knowledge enhanced word representation"** *Matthew E. Peters, Mark Neumann, Robert Logan* (EMNLP 2019) [[paper]](https://aclanthology.org/D19-1005/) [code]
+2. **"Knowledge enhanced word representation"** *Matthew E. Peters, Mark Neumann, Robert Logan* (EMNLP 2019) [[paper]](https://aclanthology.org/D19-1005/) [[code]](https://github.com/allenai/kb)
 
 #### NIL predictor
 
-1. **"End-to-end neural entity linking"** *Nikolaos Kolitsas, Octavian-Eugen Ganea, Thomas Hofmann* (CoNLL 2018) [[paper]](https://aclanthology.org/K18-1050/) [code]
+1. **"End-to-end neural entity linking"** *Nikolaos Kolitsas, Octavian-Eugen Ganea, Thomas Hofmann* (CoNLL 2018) [[paper]](https://aclanthology.org/K18-1050/) [[code]](https://github.com/dalab/end2end_neural_el)
 
 #### separate model
 
@@ -90,9 +90,9 @@ This is a repo listing some recommended papers on Neural Entity Linking Paper.
 
 #### candidate based
 
-1. **"End-to-end neural entity linking"** *Nikolaos Kolitsas, Octavian-Eugen Ganea, Thomas Hofmann* (CoNLL 2018) [[paper]](https://aclanthology.org/K18-1050/) [code]
+1. **"End-to-end neural entity linking"** *Nikolaos Kolitsas, Octavian-Eugen Ganea, Thomas Hofmann* (CoNLL 2018) [[paper]](https://aclanthology.org/K18-1050/) [[code]](https://github.com/dalab/end2end_neural_el)
 
-2. **"Knowledge enhanced word representation"** *Matthew E. Peters, Mark Neumann, Robert Logan* (EMNLP 2019) [[paper]](https://aclanthology.org/D19-1005/) [code]
+2. **"Knowledge enhanced word representation"** *Matthew E. Peters, Mark Neumann, Robert Logan* (EMNLP 2019) [[paper]](https://aclanthology.org/D19-1005/) [[code]](https://github.com/allenai/kb)
 
 #### multitask learning 
 
@@ -100,29 +100,29 @@ This is a repo listing some recommended papers on Neural Entity Linking Paper.
 
 #### sequence labeling
 
-1. **"Investigating entity knowledge in BERT with simple neural end-to-end entity linking"** *Samuel Broscheit* (CoNLL 2019) [[paper]](https://aclanthology.org/K19-1063/) [code]
+1. **"Investigating entity knowledge in BERT with simple neural end-to-end entity linking"** *Samuel Broscheit* (CoNLL 2019) [[paper]](https://aclanthology.org/K19-1063/) [[code]](https://github.com/samuelbroscheit/entity_knowledge_in_bert)
 
 ### Global Context Architecture
 
 #### random walk based
 
-1. **"Robust named entity disambiguation with random walks"** *Zhaochen Guo, Denilson Barbosa* (SWJ 2016) [[paper]](http://www.semantic-web-journal.net/content/robust-named-entity-disambiguation-random-walks) [code]
+1. **"Robust named entity disambiguation with random walks"** *Zhaochen Guo, Denilson Barbosa* (SWJ 2016) [[paper]](http://www.semantic-web-journal.net/content/robust-named-entity-disambiguation-random-walks) [[code]](https://github.com/U-Alberta/wned)
 
-2. **"Personalized page rank for named entity disambiguation"** *Maria Pershina, Yifan He, Ralph Grishman* (NAACL 2015)[[paper]](https://aclanthology.org/N15-1026.pdf)
+2. **"Personalized page rank for named entity disambiguation"** *Maria Pershina, Yifan He, Ralph Grishman* (NAACL 2015)[[paper]](https://aclanthology.org/N15-1026.pdf)  [[code]](https://github.com/masha-p/PPRforNED)
 
 3. **"Robust and Collective Entity Disambiguation through Semantic Embeddings Stefan"** *Stefan Zwicklbauer, Christin Seifert, Michael Granitzer* (SIGIR 2016) [[paper]](https://www.semanticscholar.org/paper/Robust-and-Collective-Entity-Disambiguation-through-Zwicklbauer-Seifert/ec1513289f00a49c4135909d517857fd6fba7fc9) [code]
 
 #### maximization of CRF potentials
 
-1. **"Deep joint entity disambiguation with local neural attention"** *Octavian-Eugen Ganea, Thomas Hofmann* (EMNLP 2017) [[paper]](https://aclanthology.org/D17-1277/) [code]
+1. **"Deep joint entity disambiguation with local neural attention"** *Octavian-Eugen Ganea, Thomas Hofmann* (EMNLP 2017) [[paper]](https://aclanthology.org/D17-1277/)  [[code]](https://github.com/dalab/deep-ed)
 
-2. **"Improving entity linking by modeling latent relations between mentions"** *Phong Le, Ivan Titov* (ACL 2018) [[paper]](./papers/Le, Titov - 2018 - Improving entity linking by modeling latent relations between mentions.pdf) [code]
+2. **"Improving entity linking by modeling latent relations between mentions"** *Phong Le, Ivan Titov* (ACL 2018) [[paper]](./papers/Le, Titov - 2018 - Improving entity linking by modeling latent relations between mentions.pdf) [[code]](https://github.com/lephong/mulrel-nel)
 
 #### sequential decision task
 
 1. **"Joint Entity Linking with Deep Reinforcement Learning"** *Zheng Fang, Yanan Cao, Dongjie Zhang* (2019) [[paper]](https://arxiv.org/abs/1902.00330) [code]
 
-2. **"Learning dynamic context augmentation for global entity linking"** *Xiyuan Yang, Xiaotao Gu, Sheng Lin, Siliang Tang* (EMNLP 2019) [[paper]](https://aclanthology.org/D19-1026/) [code]
+2. **"Learning dynamic context augmentation for global entity linking"** *Xiyuan Yang, Xiaotao Gu, Sheng Lin, Siliang Tang* (EMNLP 2019) [[paper]](https://aclanthology.org/D19-1026/) [[code]](https://github.com/YoungXiyuan/DCA)
 
 3. **"Global Entity Disambiguation with Pretrained Contextualized Embeddings of Words and Entities"** *Ikuya Yamada, Koki Washio, Hiroyuki Shindo, Yuji Matsumoto* (2019) [[paper]](https://arxiv.org/abs/1909.00426) [code]
 
@@ -132,31 +132,31 @@ This is a repo listing some recommended papers on Neural Entity Linking Paper.
 
 2. **"Collective entity resolution with multi-focal attention"** *Amir Globerson, Nevena Lazic, Soumen Chakrabarti* (ACL 2016) [[paper]](https://aclanthology.org/P16-1059/) [code]
 
-3. **"End-to-end neural entity linking"** *Nikolaos Kolitsas, Octavian-Eugen Ganea, Thomas Hofmann* (CoNLL 2018) [[paper]](https://aclanthology.org/K18-1050/) [code]
+3. **"End-to-end neural entity linking"** *Nikolaos Kolitsas, Octavian-Eugen Ganea, Thomas Hofmann* (CoNLL 2018) [[paper]](https://aclanthology.org/K18-1050/) [[code]](https://github.com/dalab/end2end_neural_el)
 
 #### larger context
 
 1. **"Bridging text and knowledge by learning multi-prototype entity mention embedding"** *Yixin Cao, Lifu Huang, Heng Ji, Xu Chen, Juanzi Li* (ACL 2017) [[paper]](https://aclanthology.org/P17-1149/) [code]
 
-2. **"Entity linking via joint encoding of types, descriptions, and context"** *Nitish Gupta, Sameer Singh, Dan Roth* (EMNLP 2017) [[paper]](https://aclanthology.org/D17-1284/) [code]
+2. **"Entity linking via joint encoding of types, descriptions, and context"** *Nitish Gupta, Sameer Singh, Dan Roth* (EMNLP 2017) [[paper]](https://aclanthology.org/D17-1284/)  [[code]](https://github.com/lajanugen/zeshel)
 
-3. **"Knowledge enhanced word representation"** *Matthew E. Peters, Mark Neumann, Robert Logan* (EMNLP 2019) [[paper]](https://aclanthology.org/D19-1005/) [code]
+3. **"Knowledge enhanced word representation"** *Matthew E. Peters, Mark Neumann, Robert Logan* (EMNLP 2019) [[paper]](https://aclanthology.org/D19-1005/) [[code]](https://github.com/allenai/kb)
 
 ### Domain Independent Architecture
 
 #### distant learning
 
-1. **"Distant learning for entity linking with automatic noise detection"** *Phong Le, Ivan Titov* (ACL 2019) [[paper]](https://aclanthology.org/P19-1400/) [code]
+1. **"Distant learning for entity linking with automatic noise detection"** *Phong Le, Ivan Titov* (ACL 2019) [[paper]](https://aclanthology.org/P19-1400/) [[code]](https://github.com/lephong/dl4el)
 
-2. **"Boosting Entity Linking Performance by Leveraging Unlabeled Documents"** *Phong Le, Ivan Titov* (ACL 2019) [[paper]](https://aclanthology.org/P19-1187) [code]
+2. **"Boosting Entity Linking Performance by Leveraging Unlabeled Documents"** *Phong Le, Ivan Titov* (ACL 2019) [[paper]](https://aclanthology.org/P19-1187) [[code]](https://github.com/lephong/wnel)
 
 #### zero-shot
 
-1. **"Learning dense representations for entity retrieval"** *Daniel Gillick, Sayali Kulkarni, Larry Lansing,* (CoNLL 2019) [[paper]](./papers/Gillick et al. - 2019 - Learning dense representations for entity retrieval.pdf) [code]
+1. **"Learning dense representations for entity retrieval"** *Daniel Gillick, Sayali Kulkarni, Larry Lansing,* (CoNLL 2019) [[paper]](./papers/Gillick et al. - 2019 - Learning dense representations for entity retrieval.pdf) [[code]](https://github.com/google-research/google-research/tree/master/dense_representations_for_entity_retrieval)
 
-2. **"Zero-shot entity linking by reading entity descriptions"** *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee* (ACL 2019) [[paper]](https://aclanthology.org/P19-1335/) [code]
+2. **"Zero-shot entity linking by reading entity descriptions"** *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee* (ACL 2019) [[paper]](https://aclanthology.org/P19-1335/) [[code]](https://github.com/lajanugen/zeshel)
 
-3. **"Scalable Zero-shot Entity Linking with Dense Entity Retrieval"** *Ledell Wu, Fabio Petroni, Martin Josifoski* (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.519/) [code]
+3. **"Scalable Zero-shot Entity Linking with Dense Entity Retrieval"** *Ledell Wu, Fabio Petroni, Martin Josifoski* (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.519/) [[code]](https://github.com/facebookresearch/BLINK)
 
 ### Cross-lingual Architecture
 
@@ -170,7 +170,7 @@ This is a repo listing some recommended papers on Neural Entity Linking Paper.
 
 1. **"Neural cross-lingual entity linking"** *Avirup Sil, Gourab Kundu, Radu Florian, Wael Hamza* (AAAI 2018) [[paper]](https://arxiv.org/abs/1712.01813) [code]
 
-2. **"Joint multilingual supervision for cross-lingual entity linking"** *Shyam Upadhyay, Nitish Gupta, Dan Roth* ( EMNLP 2018) [[paper]](https://arxiv.org/abs/1809.07657) [code]
+2. **"Joint multilingual supervision for cross-lingual entity linking"** *Shyam Upadhyay, Nitish Gupta, Dan Roth* ( EMNLP 2018) [[paper]](https://arxiv.org/abs/1809.07657) [[code]](https://github.com/shyamupa/xelms)
 
 ## SOTA 
 
@@ -182,31 +182,31 @@ This is a repo listing some recommended papers on Neural Entity Linking Paper.
 
 2. **"Global Entity Disambiguation with Pretrained Contextualized Embeddings of Words and Entities"** *Ikuya Yamada, Koki Washio, Hiroyuki Shindo, Yuji Matsumoto* (2019) [[paper]](https://arxiv.org/abs/1909.00426) [code] [Accuracy: 0.950]
 
-3. **"Evaluating the Impact of Knowledge Graph Context on Entity Disambiguation Models"** *Isaiah Onando Mulang', Kuldeep Singh, Chaitali Prabhu* (CIKM 2020) [[paper]](https://arxiv.org/abs/2008.05190) [code] [Accuracy: 0.9494]
+3. **"Evaluating the Impact of Knowledge Graph Context on Entity Disambiguation Models"** *Isaiah Onando Mulang', Kuldeep Singh, Chaitali Prabhu* (CIKM 2020) [[paper]](https://arxiv.org/abs/2008.05190) [[code]](https://github.com/mulangonando/Impact-of-KG-Context-on-ED) [Accuracy: 0.9494]
 
-4. **"DeepType Multilingual entity linking by neural type system evolution"** *Jonathan Raiman, Olivier Raiman* (AAAI 2018) [[paper]](https://arxiv.org/abs/1802.01021) [code] [Accuracy: 0.909]  [Accuracy: 0.9488]
+4. **"DeepType Multilingual entity linking by neural type system evolution"** *Jonathan Raiman, Olivier Raiman* (AAAI 2018) [[paper]](https://arxiv.org/abs/1802.01021) [[code]](https://github.com/openai/deeptype) [Accuracy: 0.909]  [Accuracy: 0.9488]
 
-5. **"Learning Distributed Representations of Texts and Entities from Knowledge Base"** *Ikuya Yamada, Hiroyuki Shindo, Hideaki Takeda* (2017) [[paper]](https://arxiv.org/abs/1705.02494) [code] [Accuracy: 0.931]
+5. **"Learning Distributed Representations of Texts and Entities from Knowledge Base"** *Ikuya Yamada, Hiroyuki Shindo, Hideaki Takeda* (TACL 2017) [[paper]](https://arxiv.org/abs/1705.02494) [[code]](https://github.com/studio-ousia/ntee) [Accuracy: 0.931]
 
 #### entity linking 
 
-1. **"Autoregressive Entity Retrieval"** *Nicola De Cao, Gautier Izacard, Sebastian Riedel, Fabio Petroni* (2021) [[paper]](https://arxiv.org/abs/2010.00904) [code] [Micro-f1 strong: 0.837]
+1. **"Autoregressive Entity Retrieval"** *Nicola De Cao, Gautier Izacard, Sebastian Riedel, Fabio Petroni* (2021) [[paper]](https://arxiv.org/abs/2010.00904) [[code]](https://github.com/facebookresearch/GENRE) [Micro-f1 strong: 0.837]
 
-2. **"CHOLAN A modular approach for neural entity linking on wikipedia and wikidata"** *Manoj Prabhakar Kannan Ravi, Kuldeep Singh* (EACL 2021) [[paper]](https://arxiv.org/abs/2101.09969f) [code] [Micro-f1 strong: 0.831]
+2. **"CHOLAN A modular approach for neural entity linking on wikipedia and wikidata"** *Manoj Prabhakar Kannan Ravi, Kuldeep Singh* (EACL 2021) [[paper]](https://arxiv.org/abs/2101.09969f) [[code]](https://github.com/ManojPrabhakar/CHOLAN) [Micro-f1 strong: 0.831]
 
-3. **"End-to-end neural entity linking"** *Nikolaos Kolitsas, Octavian-Eugen Ganea, Thomas Hofmann* (CoNLL 2018) [[paper]](https://aclanthology.org/K18-1050/) [code] [Micro-f1 strong: 0.826]
+3. **"End-to-end neural entity linking"** *Nikolaos Kolitsas, Octavian-Eugen Ganea, Thomas Hofmann* (CoNLL 2018) [[paper]](https://aclanthology.org/K18-1050/) [[code]](https://github.com/dalab/end2end_neural_el) [Micro-f1 strong: 0.826]
 
-4. **"Investigating entity knowledge in BERT with simple neural end-to-end entity linking"** *Samuel Broscheit* (CoNLL 2019) [[paper]](https://aclanthology.org/K19-1063/) [code]  [Micro-f1 strong: 0.793]
+4. **"Investigating entity knowledge in BERT with simple neural end-to-end entity linking"** *Samuel Broscheit* (CoNLL 2019) [[paper]](https://aclanthology.org/K19-1063/) [[code]](https://github.com/samuelbroscheit/entity_knowledge_in_bert)  [Micro-f1 strong: 0.793]
 
 ### TAC 2010
 
-1. **"Scalable Zero-shot Entity Linking with Dense Entity Retrieval"** *Ledell Wu, Fabio Petroni, Martin Josifoski* (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.519/) [code]  [Accuracy: 0.940]
+1. **"Scalable Zero-shot Entity Linking with Dense Entity Retrieval"** *Ledell Wu, Fabio Petroni, Martin Josifoski* (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.519/) [[code]](https://github.com/facebookresearch/BLINK) [Accuracy: 0.940]
 
 2.  **"Neural Collective Entity Linking"** *Yixin Cao, Lei Hou, Juanzi Li, Zhiyuan Liu* (COLING 2018)[[paper]](https://arxiv.org/abs/1811.08603) [code] [Accuracy: 0.910]
 
-3. **"DeepType Multilingual entity linking by neural type system evolution"** *Jonathan Raiman, Olivier Raiman* (AAAI 2018) [[paper]](https://arxiv.org/abs/1802.01021) [code] [Accuracy: 0.909]
+3. **"DeepType Multilingual entity linking by neural type system evolution"** *Jonathan Raiman, Olivier Raiman* (AAAI 2018) [[paper]](https://arxiv.org/abs/1802.01021)  [[code]](https://github.com/openai/deeptype) [Accuracy: 0.909]
 
-4. **"ELDEN Improved entity linking using densified knowledge graphs"** *Priya Radhakrishnan, Partha Talukdar, Vasudeva Varma* (NAACL 2018) [[paper]](https://aclanthology.org/N18-1167/) [code] [Accuracy: 0.896]
+4. **"ELDEN Improved entity linking using densified knowledge graphs"** *Priya Radhakrishnan, Partha Talukdar, Vasudeva Varma* (NAACL 2018) [[paper]](https://aclanthology.org/N18-1167/) [[code]](https://github.com/priyaradhakrishnan0/ELDEN) [Accuracy: 0.896]
 
 5. **"Entity disambiguation by knowledge and text jointly embedding"** *Wei Fang, Jianwen Zhang, Dilin Wang, Zheng Chen, Ming Li* (CoNLL 2016) [[paper]](https://aclanthology.org/K16-1026/) [code] [Accuracy: 0.889]
 
@@ -214,25 +214,25 @@ This is a repo listing some recommended papers on Neural Entity Linking Paper.
 
 1. **"Global Entity Disambiguation with Pretrained Contextualized Embeddings of Words and Entities"** *Ikuya Yamada, Koki Washio, Hiroyuki Shindo, Yuji Matsumoto* (2019) [[paper]](https://arxiv.org/abs/1909.00426) [code] [Micro-f1: 0.919]
 
-2. **"Entity linking via joint encoding of types, descriptions, and context"** *Nitish Gupta, Sameer Singh, Dan Roth* (EMNLP 2017) [[paper]](https://aclanthology.org/D17-1284/) [code]
+2. **"Entity linking via joint encoding of types, descriptions, and context"** *Nitish Gupta, Sameer Singh, Dan Roth* (EMNLP 2017) [[paper]](https://aclanthology.org/D17-1284/)  [[code]](https://github.com/lajanugen/zeshel)
 
 3. **"Joint Entity Linking with Deep Reinforcement Learning"** *Zheng Fang, Yanan Cao, Dongjie Zhang* (2019) [[paper]](https://arxiv.org/abs/1902.00330) [code]  [Micro-f1: 0.912]
 
-4. **"Autoregressive Entity Retrieval"** *Nicola De Cao, Gautier Izacard, Sebastian Riedel, Fabio Petroni* (2021) [[paper]](https://arxiv.org/abs/2010.00904) [code][Micro-f1: 0.901]
+4. **"Autoregressive Entity Retrieval"** *Nicola De Cao, Gautier Izacard, Sebastian Riedel, Fabio Petroni* (2021) [[paper]](https://arxiv.org/abs/2010.00904) [[code]](https://github.com/facebookresearch/GENRE) [Micro-f1: 0.901]
 
-5. **"Learning dynamic context augmentation for global entity linking"** *Xiyuan Yang, Xiaotao Gu, Sheng Lin, Siliang Tang* (EMNLP 2019) [[paper]](https://aclanthology.org/D19-1026/) [code]  [Micro-f1: 0.901]
+5. **"Learning dynamic context augmentation for global entity linking"** *Xiyuan Yang, Xiaotao Gu, Sheng Lin, Siliang Tang* (EMNLP 2019) [[paper]](https://aclanthology.org/D19-1026/) [[code]](https://github.com/YoungXiyuan/DCA)  [Micro-f1: 0.901]
 
 ### AQUAINT
 
 1. **"Global Entity Disambiguation with Pretrained Contextualized Embeddings of Words and Entities"** *Ikuya Yamada, Koki Washio, Hiroyuki Shindo, Yuji Matsumoto* (2019) [[paper]](https://arxiv.org/abs/1909.00426) [code] [Micro-f1: 0.935]
 
-2.  **"Boosting Entity Linking Performance by Leveraging Unlabeled Documents"** *Phong Le, Ivan Titov* (ACL 2019) [[paper]](https://aclanthology.org/P19-1187) [code] [Micro-f1: 0.907]
+2.  **"Boosting Entity Linking Performance by Leveraging Unlabeled Documents"** *Phong Le, Ivan Titov* (ACL 2019) [[paper]](https://aclanthology.org/P19-1187) [[code]](https://github.com/lephong/wnel) [Micro-f1: 0.907]
 
-3. **"Autoregressive Entity Retrieval"** *Nicola De Cao, Gautier Izacard, Sebastian Riedel, Fabio Petroni* (2021) [[paper]](https://arxiv.org/abs/2010.00904) [code] [Micro-f1: 0.899]
+3. **"Autoregressive Entity Retrieval"** *Nicola De Cao, Gautier Izacard, Sebastian Riedel, Fabio Petroni* (2021) [[paper] [[code]](https://github.com/facebookresearch/GENRE) [Micro-f1: 0.899]
 
-4. **"Deep joint entity disambiguation with local neural attention"** *Octavian-Eugen Ganea, Thomas Hofmann* (EMNLP 2017) [[paper]](https://aclanthology.org/D17-1277/) [code] [Micro-f1: 0.885]
+4. **"Deep joint entity disambiguation with local neural attention"** *Octavian-Eugen Ganea, Thomas Hofmann* (EMNLP 2017) [[paper]](https://aclanthology.org/D17-1277/) [[code]](https://github.com/dalab/deep-ed)  [Micro-f1: 0.885]
 
-5. **"Improving entity linking by modeling latent relations between mentions"** *Phong Le, Ivan Titov* (ACL 2018) [[paper]](./papers/Le, Titov - 2018 - Improving entity linking by modeling latent relations between mentions.pdf) [code]
+5. **"Improving entity linking by modeling latent relations between mentions"** *Phong Le, Ivan Titov* (ACL 2018) [[paper]](./papers/Le, Titov - 2018 - Improving entity linking by modeling latent relations between mentions.pdf) [[code]](https://github.com/lephong/mulrel-nel)
 
 ### MSNBC
 
@@ -240,9 +240,9 @@ This is a repo listing some recommended papers on Neural Entity Linking Paper.
 
 ### KILT
 
-1. **"Autoregressive Entity Retrieval"** *Nicola De Cao, Gautier Izacard, Sebastian Riedel, Fabio Petroni* (2021) [[paper]](https://arxiv.org/abs/2010.00904) [code]
+1. **"Autoregressive Entity Retrieval"** *Nicola De Cao, Gautier Izacard, Sebastian Riedel, Fabio Petroni* (2021) [[paper]](https://arxiv.org/abs/2010.00904) [[code]](https://github.com/facebookresearch/GENRE)
 
-2. **"Scalable Zero-shot Entity Linking with Dense Entity Retrieval"** *Ledell Wu, Fabio Petroni, Martin Josifoski* (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.519/) [code]
+2. **"Scalable Zero-shot Entity Linking with Dense Entity Retrieval"** *Ledell Wu, Fabio Petroni, Martin Josifoski* (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.519/) [[code]](https://github.com/facebookresearch/BLINK)
 
 3. **"KILT a Benchmark for Knowledge Intensive Language Tasks"** *Fabio Petroni, Aleksandra Piktus, Angela Fan* (NAACL 2021) [[paper]](.https://aclanthology.org/2021.naacl-main.200/) [code]
 
